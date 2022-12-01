@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!-- <img class="profile-picture" src="rosendal.jpg"> -->
+<img class="profile-picture" src="headshot.jpeg">
 
 Hi, I'm Harini. Currently, I am a PhD student in computer science at MIT, where I am part of the [Clinical and Applied Machine Learning Group](https://ddig.csail.mit.edu/), the [Visualization Group](http://vis.csail.mit.edu/), and the [Data + Feminism Lab](https://dataplusfeminism.mit.edu/). 
 
