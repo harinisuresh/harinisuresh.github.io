@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Projects
+### Teaching & Leadership
 
 <span class='paper-title'>[Advanced Natural Language Processing](https://www.mit.edu/~jda/teaching/6.864/sp21), Teaching Assistant</span>\
 Graduate teaching assistant for Prof. Jacob Andreas. Developed and taught a new course module on dataset design and its ethical implications with a hands-on problem set. This material received positive feedback from ~250 students, has continued to be taught in subsequent years, made widely available on [MIT OpenCourseWare](https://ocw.mit.edu/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/pages/ai-algorithms/quantitative-methods-for-natural-language-processing/), and adapted for different classes.
