@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<img class="profile-picture" src="headshot.jpeg">
-
 Hi, I'm Harini. Currently, I am a PhD student in computer science at MIT, where I am part of the [Clinical and Applied Machine Learning Group](https://ddig.csail.mit.edu/), the [Visualization Group](http://vis.csail.mit.edu/), and the [Data + Feminism Lab](https://dataplusfeminism.mit.edu/). 
 
 My research is at the intersection of machine learning (ML) and human-computer interaction (HCI). I'm interested in helping diverse communities and stakeholders shape the developement and use of ML technology.  In my current work, this takes a lot of forms: for example, using participatory methods to [co-designing](https://dl.acm.org/doi/10.1145/3531146.3533132) context-specific datasets and models for counterdata collection, or developing [tools](https://dl.acm.org/doi/abs/10.1145/3490099.3511160) and [theory](https://dl.acm.org/doi/pdf/10.1145/3411764.3445088) for communicating the limitations of ML systems to the people who use them and are affected by them.    
