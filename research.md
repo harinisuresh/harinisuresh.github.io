@@ -4,6 +4,11 @@ layout: default
 
 ### Conference & Journal Publications 
 
+<span class='paper-title'>Kaleidoscope: Semantically-grounded, context-specific ML model evaluation.</span>\
+CHI Conference on Human Factors in Computing Systems (CHI ’23).\
+**Harini Suresh**, Divya Shanmugam, Annie Bryan, Tiffany Chen, Alexander D'Amour, John V. Guttag, Arvind Satyanarayan. \
+[[paper](https://drive.google.com/file/d/1MXG1ZgPkByEGoX933y34oswS0x_OaFsJ/view?usp=sharing)]
+
 <span class='paper-title'>Towards Intersectional Feminist and Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection.</span>\
 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22). \
 <span style='color:#ef3e6a;'>&#9733; Best student paper award &#9733;</span> \
