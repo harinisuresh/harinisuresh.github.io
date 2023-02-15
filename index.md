@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**I'm on the job market! Please reach out if you know of an opportunity that would fit my background. **
+**I'm on the job market! Please reach out if you know of an opportunity that would fit my background.**
 
 Hi, I'm Harini. I am a current postdoc & recent PhD grad in computer science at MIT, where I am part of the [Clinical and Applied Machine Learning Group](https://ddig.csail.mit.edu/), the [Visualization Group](http://vis.csail.mit.edu/), and the [Data + Feminism Lab](https://dataplusfeminism.mit.edu/). 
 
