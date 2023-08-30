@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi, I'm Harini. I am a postdoc at Cornell, working with [Emma Pierson](https://www.cs.cornell.edu/~emmapierson/), [John Kleinberg](https://www.cs.cornell.edu/home/kleinber/) and [Karen Levy](https://www.karen-levy.net/).  I did my PhD in computer science at MIT, where I was part of the [Clinical and Applied Machine Learning Group](https://ddig.csail.mit.edu/), the [Visualization Group](http://vis.csail.mit.edu/), and the [Data + Feminism Lab](https://dataplusfeminism.mit.edu/). 
+Hi, I'm Harini. I am a postdoc at Cornell, working with [Emma Pierson](https://www.cs.cornell.edu/~emmapierson/), [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/) and [Karen Levy](https://www.karen-levy.net/).  I did my PhD in computer science at MIT, where I was part of the [Clinical and Applied Machine Learning Group](https://ddig.csail.mit.edu/), the [Visualization Group](http://vis.csail.mit.edu/), and the [Data + Feminism Lab](https://dataplusfeminism.mit.edu/). 
 
 My research is at the intersection of machine learning (ML) and human-computer interaction (HCI). I'm interested in helping diverse communities and stakeholders shape the developement and use of ML technology.  In my current work, this takes a lot of forms: for example, using participatory methods to [co-design](https://dl.acm.org/doi/10.1145/3531146.3533132) context-specific datasets and models for counterdata collection, or developing [tools](https://drive.google.com/file/d/1MXG1ZgPkByEGoX933y34oswS0x_OaFsJ/view?usp=sharing) and [theory](https://dl.acm.org/doi/pdf/10.1145/3411764.3445088) for communicating the limitations of ML systems to the people who use them and are affected by them.    
 
