@@ -4,10 +4,25 @@ layout: default
 
 ### Conference & Journal Publications 
 
+<span class='paper-title'>Participation in the age of foundation models.</span>\
+ACM Conference on Fairness, Accountability, and Transparency (FAccT ‘24).\
+**Harini Suresh**&#10023;, Emily Tseng&#10023;, Meg Young&#10023;, Mary Gray, Emma Pierson, Karen Levy.\
+[[paper](https://dl.acm.org/doi/10.1145/3630106.3658992)]
+
+<span class='paper-title'>Saliency Cards: A Framework to Characterize and Compare Saliency Methods.</span>\
+Angie Boggust&#10023;, **Harini Suresh**&#10023;, Hendrik Strobelt, John Guttag, Arvind Satyanarayan.\
+ACM Conference on Fairness, Accountability, and Transparency (FAccT '23). \
+[[paper](https://dl.acm.org/doi/abs/10.1145/3593013.3593997)]
+
 <span class='paper-title'>Kaleidoscope: Semantically-grounded, context-specific ML model evaluation.</span>\
 CHI Conference on Human Factors in Computing Systems (CHI ’23).\
 **Harini Suresh**, Divya Shanmugam, Annie Bryan, Tiffany Chen, Alexander D'Amour, John V. Guttag, Arvind Satyanarayan. \
 [[paper](https://drive.google.com/file/d/1meAA_arK9rsR5H_UJBlZYsyh9eunyX14/view?usp=sharing)]
+
+<span class='paper-title'>Non-task expert physicians benefit from correct explainable AI advice when reviewing X-rays</span>\
+Susanne Gaube, **Harini Suresh**, Martina Raue, Eva Lermer, Timo K. Koch, Matthias F. C. Hudecek, Alun D. Ackery, Samir C. Grover, Joseph F. Coughlin, Dieter Frey, Felipe C. Kitamura, Marzyeh Ghassemi, Errol Colak.\
+Scientific Reports, (2023) 13:1383.\
+[[paper](https://www.nature.com/articles/s41598-023-28633-w)]
 
 <span class='paper-title'>Towards Intersectional Feminist and Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection.</span>\
 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22). \
@@ -66,6 +81,11 @@ Machine Learning for Healthcare Conference (MLHC 2017).\
 [[paper](http://proceedings.mlr.press/v68/suresh17a.html)]
 
 ### Workshops and Posters 
+
+<span class='paper-title'>Co-liberation through Data & Sociotechnical Systems? Reflections, Tensions, and Possibilities.</span>\
+A Toolbox of Feminist Wonder Workshop, ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW ’23).\
+**Harini Suresh**&#10023;, Nikki Stevens&#10023;, Amelia Lee Doğan.
+[[paper](https://drive.google.com/file/d/1XZFyoSZL_xx11UeduXCrG5D5iE3NcyvZ/view?usp=sharing)]
 
 <span class='paper-title'>Feminicide & Machine Learning: Detecting Gender-based Violence to Strengthen Civil Sector Activism.</span>\
 Mechanism Design for Social Good Workshop (MD4SG 2020). \
