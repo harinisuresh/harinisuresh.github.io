@@ -4,6 +4,25 @@ layout: default
 
 ### Conference & Journal Publications 
 
+<span class='paper-title'>Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities.</span>\
+Ilana Nguyen, **Harini Suresh**, Thema Monroe-White, Evan Shieh.\
+ACM Conference on Fairness, Accountability, and Transparency (FAccT ‘26).\
+
+<span class='paper-title'>Reimagining Data Work: Participatory Annotation Workshops as Feminist Practice.</span>\
+Yujia Gao, Isadora Araujo Cruxên, Helena Suárez Val, Alessandra Jungs de Almeida, Catherine D'Ignazio, **Harini Suresh**.\
+CHI Conference on Human Factors in Computing Systems (CHI ’26).\
+[[paper](https://arxiv.org/abs/2602.22196)]
+
+<span class='paper-title'>How LLM Counselors Violate Ethical Standards in Mental Health Practice: A Practitioner-Informed Framework.</span>\
+Zainab Iftikhar, Amy Xiao, Sean Ransom, Jeff Huang, **Harini Suresh**.\
+AAAI/ACM Conference on AI, Ethics, and Society (AIES ‘25).\ 
+[[paper](https://ojs.aaai.org/index.php/AIES/article/view/36632)]
+
+<span class='paper-title'>"Ownership, Not Just Happy Talk": Co-Designing a Participatory Large Language Model for Journalism.</span>\
+Emily Tseng, Meg Young, Mary Gray, Emma Pierson, Karen Levy, **Harini Suresh**.  \
+ACM Conference on Fairness, Accountability, and Transparency (FAccT ‘25).\
+[[paper](https://dl.acm.org/doi/full/10.1145/3715275.3732198)]
+
 <span class='paper-title'>Participation in the age of foundation models.</span>\
 ACM Conference on Fairness, Accountability, and Transparency (FAccT ‘24).\
 **Harini Suresh**&#10023;, Emily Tseng&#10023;, Meg Young&#10023;, Mary Gray, Emma Pierson, Karen Levy.\
@@ -80,11 +99,26 @@ Machine Learning for Healthcare Conference (MLHC 2017).\
 **Harini Suresh**, Nathan Hunt, Alistair Johnson, Leo Anthony Celi, Peter Szolovits, Marzyeh Ghassemi. \
 [[paper](http://proceedings.mlr.press/v68/suresh17a.html)]
 
-### Workshops and Posters 
+### Workshops 
+
+<span class='paper-title'>The Malicious Technical Ecosystem: Exposing Limitations in Technical Governance of AI-Generated Non-Consensual Intimate Images of Adults.</span>\
+Michelle L. Ding, **Harini Suresh**.\
+Conference on Human Factors in Computing Systems Sociotechnical AI Governance Workshop (STAIG@CHI '25).\
+[[paper](https://arxiv.org/abs/2504.17663)]
+
+<span class='paper-title'>Representational Harms in LLM-Generated Narratives Against Nationalities Located in the Global South.</span>\
+Ilana Nguyen, **Harini Suresh**, Evan Shieh.\
+Conference on Human Factors in Computing Systems Human-centered Evaluation and Auditing of Language Models Workshop (HEAL@CHI '25).\
+[[paper](https://heal-workshop.github.io/chi2025_papers/50_Representational_Harms_in_L.pdf)]
+
+<span class='paper-title'>Chatbot Evaluation Is (Sometimes) Ill-Posed: Contextualization Errors in the Human-Interface-Model Pipeline.</span>\
+Aspen Hopkins&#10023;, Angie Boggust&#10023;, **Harini Suresh**&#10023;.\
+Conference on Human Factors in Computing Systems Human-centered Evaluation and Auditing of Language Models Workshop (HEAL@CHI '25).\
+[[paper](https://heal-workshop.github.io/chi2025_papers/34_Chatbot_Evaluation_Is_Somet.pdf)]
 
 <span class='paper-title'>Co-liberation through Data & Sociotechnical Systems? Reflections, Tensions, and Possibilities.</span>\
 A Toolbox of Feminist Wonder Workshop, ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW ’23).\
-**Harini Suresh**&#10023;, Nikki Stevens&#10023;, Amelia Lee Doğan.
+**Harini Suresh**&#10023;, Nikko Stevens&#10023;, Amelia Lee Doğan.
 [[paper](https://drive.google.com/file/d/1XZFyoSZL_xx11UeduXCrG5D5iE3NcyvZ/view?usp=sharing)]
 
 <span class='paper-title'>Feminicide & Machine Learning: Detecting Gender-based Violence to Strengthen Civil Sector Activism.</span>\
