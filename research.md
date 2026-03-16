@@ -15,7 +15,7 @@ CHI Conference on Human Factors in Computing Systems (CHI ’26).\
 
 <span class='paper-title'>How LLM Counselors Violate Ethical Standards in Mental Health Practice: A Practitioner-Informed Framework.</span>\
 Zainab Iftikhar, Amy Xiao, Sean Ransom, Jeff Huang, **Harini Suresh**. \
-AAAI/ACM Conference on AI, Ethics, and Society (AIES ‘25).\ 
+AAAI/ACM Conference on AI, Ethics, and Society (AIES '25).<br>
 [[paper](https://ojs.aaai.org/index.php/AIES/article/view/36632)]
 
 <span class='paper-title'>"Ownership, Not Just Happy Talk": Co-Designing a Participatory Large Language Model for Journalism.</span>\
