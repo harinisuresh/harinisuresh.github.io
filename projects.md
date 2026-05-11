@@ -4,12 +4,13 @@ layout: default
 
 ### At Brown 
 
-<span class='paper-title'>Critical Data and Machine Learning Studies</span>\
-_Description:_ In this course, we will investigate the complex ways that such data and machine learning (ML) technologies are shaped by human values and power structures, and in turn, how these technologies shape society.  We will work to understand these systems as sociotechnical — thinking beyond a particular technical artifact to explore how problems are defined and deemed important, how development practices and categorization schemes become default, and how the impact of a system can differ widely across communities.
+<span class='paper-title'>Sociotechnical Approaches to AI & HCI (CSCI 1302) </span>\
+_Spring 2025; Fall 2025_
 
-Together, we will develop both critical and imaginative perspectives on data and machine learning systems.  A critical perspective will help you analyze technology in the context of power structures and social context; an imaginative perspective will help you use this awareness to envision and build alternative and more just futures.  In your future endeavors as technologists and researchers, you can draw on these analytical frameworks to center diverse lived experiences and collective liberation throughout your work. 
+<span class='paper-title'>Critical AI and Data Studies (CSCI 2952W) </span>\
+_Fall 2024; Spring 2026_
 
-The questions we will explore in this class are fundamentally interdisciplinary, and this will be reflected in the readings.  Most weeks will include 1-2 readings (sometimes optional) that touch on foundational social theory, exploring concepts such as situated knowledge, intersectionality, decoloniality, and positionality.  The other readings will focus on recent research in computer science that bridges these concepts with modern ML & AI technology and practice.  
+Please reach out if you're interested in viewing the syllabi / reading lists for these courses! 
 
 ### Previously 
 <span class='paper-title'>[Advanced Natural Language Processing](https://www.mit.edu/~jda/teaching/6.864/sp21), Teaching Assistant</span>\
