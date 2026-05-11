@@ -4,9 +4,15 @@ layout: default
 
 ### Conference & Journal Publications 
 
+<span class='paper-title'>The Activist's Guide to the Decentralized Social Universe: A Framework for Exploring How Decentralized Social Networks Can Support Collective Action</span>\
+Sybille Légitime, **Harini Suresh**.\
+ACM Conference on Computer-Supported Cooperative Work (CSCW ‘26).
+[[paper](https://arxiv.org/abs/2604.22749)]
+
 <span class='paper-title'>Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities.</span>\
 Ilana Nguyen, **Harini Suresh**, Thema Monroe-White, Evan Shieh.\
 ACM Conference on Fairness, Accountability, and Transparency (FAccT ‘26).
+[[paper](https://arxiv.org/abs/2604.22749)]
 
 <span class='paper-title'>Reimagining Data Work: Participatory Annotation Workshops as Feminist Practice.</span>\
 Yujia Gao, Isadora Araujo Cruxên, Helena Suárez Val, Alessandra Jungs de Almeida, Catherine D'Ignazio, **Harini Suresh**.\
